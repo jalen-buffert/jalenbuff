@@ -2,7 +2,7 @@
 
 My name is Jalen, I am an Gettysburg College Economics alum interested in Python and Data Science!
 
-- 📱 I’m currently working on [Screener](), an options screener to aid retail investors in quicker decision making. 
+- 📱 I’m currently working on [Screener](https://github.com/Jalenbuff/DCA-Screener.git), an options screener to aid retail investors in quicker decision making. 
 - 💵 I’m recently built a program to forecast stock returns from FOMC transcripts, check it out []()
 - 😎 I’m looking to build my machine learning and data science skills to solve problems‼️
 - 💬 I would love to collaborate on projects and share ideas.
