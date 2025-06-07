@@ -1,12 +1,11 @@
 ## Hello Everyone 👋
 
-My name is Jalen, I am an Gettysburg College Economics alum interested in Python and Data Science!
+I'm Jalen Buffert, a Gettysburg College Economics alumnus passionate about Python, Data Science, and Machine Learning!
 
-- 📱 I’m currently working on [Screener](https://github.com/Jalenbuff/DCA-Screener.git), an options screener to aid retail investors in quicker decision making. 
-- 💵 I’m recently built a program to forecast stock returns from FOMC transcripts, check it out []()
-- 😎 I’m looking to build my machine learning and data science skills to solve problems‼️
-- 💬 I would love to collaborate on projects and share ideas.
-  - Please email me at jalenbuffert@gmail.com
+- 📱 Engineered an [Options Screener](https://github.com/Jalenbuff/DCA-Screener.git) that accererates strategy analysis and trade decision-making. Features real-time market data APIs, and customizable filters.
+- 💵 Created a [Sentiment-Based Forecasting](https://github.com/Jalenbuff/Sentiment_Analysis) tool using FOMC transcripts, ARIMA, and XGBoost to predict equity returns. Leveraged NLP with FinBERT and advanced statistical models for robust performance.
+- 💬 I welcome any opportunities to collaborate on advanced quantitative modeling projects and share ideas.
+  - Contact Me: jalenbuffert@gmail.com | [Linkenin](https://www.linkedin.com/in/jalen-buffert/)
 <!--
 **Jalenbuff/jalenbuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
